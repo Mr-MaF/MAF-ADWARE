@@ -13,8 +13,8 @@ The ADA-MaF_ADWARE software is developed strictly for educational and research p
 
 Download the software for your platform:
 
-- 🔹 [Download for Windows (.exe)](https://drive.google.com/your-windows-exe-link-here)
-- 🔹 [Download for Debian/Linux (.deb)](https://drive.google.com/your-linux-deb-link-here)
+- 🔹 [Download for Windows (.exe)](https://github.com/Mr-MaF/MAF-ADWARE/blob/main/ADA-MaF_ADWARE.exes )
+- 🔹 [Download for Debian/Linux (.deb)](https://github.com/Mr-MaF/MAF-ADWARE/blob/main/ada-maf-adware-educational_3.2.20250501_amd64.deb)
 
 > 📁 Files are hosted on Google Drive. Please report if any link breaks.
 
