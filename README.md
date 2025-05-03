@@ -24,7 +24,9 @@ Download the software for your platform:
 
 Please help improve the project by providing feedback:
 
-- 📝 [**Submit Feedback Form**](https://forms.gle/your-google-form-link-here)
+- 📝 [**Submit Feedback Form**](
+https://docs.google.com/forms/d/e/1FAIpQLSeW4tEyF0HtaFfXF0mdZlVDchmeEj_fiUqVw8hXtGm5j1jp-g/viewform?usp=sharing
+)
 
 You’ll be asked to:
 - Report if any security tool flagged the software
@@ -68,7 +70,7 @@ Want to help make this tool smarter? Fork this repo and contribute your own dete
 
 For questions or collaborations:
 **Author**: ADA Security Research Team  
-**Email**: your.email@example.com  
+**Email**: augustinophlp@example.com  
 **License**: Educational Use Only – No Warranty
 
 ---
